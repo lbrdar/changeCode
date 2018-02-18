@@ -1,5 +1,5 @@
 # changeCode
 
-Zadatak rijesen pomocu Postman-a. :) 
+Zadatak_rijesen_pomocu_Postman-a. :) 
 
-Forme i ostali frontend dio coming soon.. 
+Forme_i_ostali_frontend_dio_coming_soon.. 
