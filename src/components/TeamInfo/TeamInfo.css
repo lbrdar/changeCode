@@ -1,0 +1,13 @@
+ul {
+    margin: 5px auto;
+    width: fit-content;
+    text-align: left;
+}
+
+li {
+    padding: 10px;
+}
+
+.TeamInfo {
+    padding: 20px;
+}
